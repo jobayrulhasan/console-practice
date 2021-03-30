@@ -1,7 +1,0 @@
-D:\C#Console\Calculation2\Calculation2\bin\Debug\Calculation2.exe.config
-D:\C#Console\Calculation2\Calculation2\bin\Debug\Calculation2.exe
-D:\C#Console\Calculation2\Calculation2\bin\Debug\Calculation2.pdb
-D:\C#Console\Calculation2\Calculation2\obj\Debug\Calculation2.csprojAssemblyReference.cache
-D:\C#Console\Calculation2\Calculation2\obj\Debug\Calculation2.csproj.CoreCompileInputs.cache
-D:\C#Console\Calculation2\Calculation2\obj\Debug\Calculation2.exe
-D:\C#Console\Calculation2\Calculation2\obj\Debug\Calculation2.pdb

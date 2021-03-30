@@ -1,7 +1,0 @@
-D:\C#Console\EvidanceExam2\bin\Debug\EvidanceExam2.exe.config
-D:\C#Console\EvidanceExam2\bin\Debug\EvidanceExam2.exe
-D:\C#Console\EvidanceExam2\bin\Debug\EvidanceExam2.pdb
-D:\C#Console\EvidanceExam2\obj\Debug\EvidanceExam2.csprojAssemblyReference.cache
-D:\C#Console\EvidanceExam2\obj\Debug\EvidanceExam2.csproj.CoreCompileInputs.cache
-D:\C#Console\EvidanceExam2\obj\Debug\EvidanceExam2.exe
-D:\C#Console\EvidanceExam2\obj\Debug\EvidanceExam2.pdb

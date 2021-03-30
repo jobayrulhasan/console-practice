@@ -1,7 +1,0 @@
-D:\C#Console\answerC\bin\Debug\answerC.exe.config
-D:\C#Console\answerC\bin\Debug\answerC.exe
-D:\C#Console\answerC\bin\Debug\answerC.pdb
-D:\C#Console\answerC\obj\Debug\answerC.csproj.CoreCompileInputs.cache
-D:\C#Console\answerC\obj\Debug\answerC.exe
-D:\C#Console\answerC\obj\Debug\answerC.pdb
-D:\C#Console\answerC\obj\Debug\answerC.csprojAssemblyReference.cache

@@ -1,7 +1,0 @@
-D:\C#Console\loopCondition\loopCondition\bin\Debug\loopCondition.exe.config
-D:\C#Console\loopCondition\loopCondition\bin\Debug\loopCondition.exe
-D:\C#Console\loopCondition\loopCondition\bin\Debug\loopCondition.pdb
-D:\C#Console\loopCondition\loopCondition\obj\Debug\loopCondition.csprojAssemblyReference.cache
-D:\C#Console\loopCondition\loopCondition\obj\Debug\loopCondition.csproj.CoreCompileInputs.cache
-D:\C#Console\loopCondition\loopCondition\obj\Debug\loopCondition.exe
-D:\C#Console\loopCondition\loopCondition\obj\Debug\loopCondition.pdb

@@ -1,7 +1,0 @@
-D:\C#Console\PreAndPostfix\bin\Debug\PreAndPostfix.exe.config
-D:\C#Console\PreAndPostfix\bin\Debug\PreAndPostfix.exe
-D:\C#Console\PreAndPostfix\bin\Debug\PreAndPostfix.pdb
-D:\C#Console\PreAndPostfix\obj\Debug\PreAndPostfix.csproj.CoreCompileInputs.cache
-D:\C#Console\PreAndPostfix\obj\Debug\PreAndPostfix.exe
-D:\C#Console\PreAndPostfix\obj\Debug\PreAndPostfix.pdb
-D:\C#Console\PreAndPostfix\obj\Debug\PreAndPostfix.csprojAssemblyReference.cache

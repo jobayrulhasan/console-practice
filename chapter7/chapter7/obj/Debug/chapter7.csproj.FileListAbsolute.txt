@@ -1,7 +1,0 @@
-C:\Users\Jobayer\source\repos\chapter7\chapter7\bin\Debug\chapter7.exe.config
-C:\Users\Jobayer\source\repos\chapter7\chapter7\bin\Debug\chapter7.exe
-C:\Users\Jobayer\source\repos\chapter7\chapter7\bin\Debug\chapter7.pdb
-C:\Users\Jobayer\source\repos\chapter7\chapter7\obj\Debug\chapter7.csprojAssemblyReference.cache
-C:\Users\Jobayer\source\repos\chapter7\chapter7\obj\Debug\chapter7.csproj.CoreCompileInputs.cache
-C:\Users\Jobayer\source\repos\chapter7\chapter7\obj\Debug\chapter7.exe
-C:\Users\Jobayer\source\repos\chapter7\chapter7\obj\Debug\chapter7.pdb

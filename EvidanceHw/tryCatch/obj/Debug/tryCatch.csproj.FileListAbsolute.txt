@@ -1,6 +1,0 @@
-D:\C#Console\EvidanceHw\tryCatch\bin\Debug\tryCatch.exe.config
-D:\C#Console\EvidanceHw\tryCatch\bin\Debug\tryCatch.exe
-D:\C#Console\EvidanceHw\tryCatch\bin\Debug\tryCatch.pdb
-D:\C#Console\EvidanceHw\tryCatch\obj\Debug\tryCatch.csproj.CoreCompileInputs.cache
-D:\C#Console\EvidanceHw\tryCatch\obj\Debug\tryCatch.exe
-D:\C#Console\EvidanceHw\tryCatch\obj\Debug\tryCatch.pdb

@@ -1,7 +1,0 @@
-D:\C#Console\constructorType1\bin\Debug\constructorType1.exe.config
-D:\C#Console\constructorType1\bin\Debug\constructorType1.exe
-D:\C#Console\constructorType1\bin\Debug\constructorType1.pdb
-D:\C#Console\constructorType1\obj\Debug\constructorType1.csprojAssemblyReference.cache
-D:\C#Console\constructorType1\obj\Debug\constructorType1.csproj.CoreCompileInputs.cache
-D:\C#Console\constructorType1\obj\Debug\constructorType1.exe
-D:\C#Console\constructorType1\obj\Debug\constructorType1.pdb

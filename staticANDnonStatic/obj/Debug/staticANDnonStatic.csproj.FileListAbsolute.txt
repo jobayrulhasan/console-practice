@@ -1,7 +1,0 @@
-D:\C#Console\staticANDnonStatic\bin\Debug\staticANDnonStatic.exe.config
-D:\C#Console\staticANDnonStatic\bin\Debug\staticANDnonStatic.exe
-D:\C#Console\staticANDnonStatic\bin\Debug\staticANDnonStatic.pdb
-D:\C#Console\staticANDnonStatic\obj\Debug\staticANDnonStatic.csprojAssemblyReference.cache
-D:\C#Console\staticANDnonStatic\obj\Debug\staticANDnonStatic.csproj.CoreCompileInputs.cache
-D:\C#Console\staticANDnonStatic\obj\Debug\staticANDnonStatic.exe
-D:\C#Console\staticANDnonStatic\obj\Debug\staticANDnonStatic.pdb

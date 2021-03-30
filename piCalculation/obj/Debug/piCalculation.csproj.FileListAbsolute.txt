@@ -1,7 +1,0 @@
-D:\C#Console\piCalculation\bin\Debug\piCalculation.exe.config
-D:\C#Console\piCalculation\bin\Debug\piCalculation.exe
-D:\C#Console\piCalculation\bin\Debug\piCalculation.pdb
-D:\C#Console\piCalculation\obj\Debug\piCalculation.csprojAssemblyReference.cache
-D:\C#Console\piCalculation\obj\Debug\piCalculation.csproj.CoreCompileInputs.cache
-D:\C#Console\piCalculation\obj\Debug\piCalculation.exe
-D:\C#Console\piCalculation\obj\Debug\piCalculation.pdb

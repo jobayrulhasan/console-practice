@@ -1,7 +1,0 @@
-D:\C#Console\locatAndClass\locatAndClass\obj\Debug\locatAndClass.csprojAssemblyReference.cache
-D:\C#Console\locatAndClass\locatAndClass\obj\Debug\locatAndClass.csproj.CoreCompileInputs.cache
-D:\C#Console\locatAndClass\locatAndClass\bin\Debug\locatAndClass.exe.config
-D:\C#Console\locatAndClass\locatAndClass\bin\Debug\locatAndClass.exe
-D:\C#Console\locatAndClass\locatAndClass\bin\Debug\locatAndClass.pdb
-D:\C#Console\locatAndClass\locatAndClass\obj\Debug\locatAndClass.exe
-D:\C#Console\locatAndClass\locatAndClass\obj\Debug\locatAndClass.pdb

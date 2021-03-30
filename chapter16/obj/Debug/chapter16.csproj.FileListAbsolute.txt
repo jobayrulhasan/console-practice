@@ -1,7 +1,0 @@
-D:\C#Console\chapter16\bin\Debug\chapter16.exe.config
-D:\C#Console\chapter16\bin\Debug\chapter16.exe
-D:\C#Console\chapter16\bin\Debug\chapter16.pdb
-D:\C#Console\chapter16\obj\Debug\chapter16.csprojAssemblyReference.cache
-D:\C#Console\chapter16\obj\Debug\chapter16.csproj.CoreCompileInputs.cache
-D:\C#Console\chapter16\obj\Debug\chapter16.exe
-D:\C#Console\chapter16\obj\Debug\chapter16.pdb

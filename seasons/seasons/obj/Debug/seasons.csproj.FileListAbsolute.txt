@@ -1,7 +1,0 @@
-D:\C#Console\seasons\seasons\bin\Debug\seasons.exe.config
-D:\C#Console\seasons\seasons\bin\Debug\seasons.exe
-D:\C#Console\seasons\seasons\bin\Debug\seasons.pdb
-D:\C#Console\seasons\seasons\obj\Debug\seasons.csprojAssemblyReference.cache
-D:\C#Console\seasons\seasons\obj\Debug\seasons.csproj.CoreCompileInputs.cache
-D:\C#Console\seasons\seasons\obj\Debug\seasons.exe
-D:\C#Console\seasons\seasons\obj\Debug\seasons.pdb

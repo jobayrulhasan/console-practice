@@ -1,7 +1,0 @@
-D:\C#Console\enaumInheratice\bin\Debug\enaumInheratice.exe.config
-D:\C#Console\enaumInheratice\bin\Debug\enaumInheratice.exe
-D:\C#Console\enaumInheratice\bin\Debug\enaumInheratice.pdb
-D:\C#Console\enaumInheratice\obj\Debug\enaumInheratice.csprojAssemblyReference.cache
-D:\C#Console\enaumInheratice\obj\Debug\enaumInheratice.csproj.CoreCompileInputs.cache
-D:\C#Console\enaumInheratice\obj\Debug\enaumInheratice.exe
-D:\C#Console\enaumInheratice\obj\Debug\enaumInheratice.pdb

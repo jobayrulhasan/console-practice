@@ -1,7 +1,0 @@
-D:\C#Console\problemSolving.sln\problemSolving\bin\Debug\problemSolving.exe.config
-D:\C#Console\problemSolving.sln\problemSolving\bin\Debug\problemSolving.exe
-D:\C#Console\problemSolving.sln\problemSolving\bin\Debug\problemSolving.pdb
-D:\C#Console\problemSolving.sln\problemSolving\obj\Debug\problemSolving.csprojAssemblyReference.cache
-D:\C#Console\problemSolving.sln\problemSolving\obj\Debug\problemSolving.csproj.CoreCompileInputs.cache
-D:\C#Console\problemSolving.sln\problemSolving\obj\Debug\problemSolving.exe
-D:\C#Console\problemSolving.sln\problemSolving\obj\Debug\problemSolving.pdb

@@ -1,7 +1,0 @@
-D:\C#Console\prefixPostfix\prefixPostfix\bin\Debug\prefixPostfix.exe.config
-D:\C#Console\prefixPostfix\prefixPostfix\bin\Debug\prefixPostfix.exe
-D:\C#Console\prefixPostfix\prefixPostfix\bin\Debug\prefixPostfix.pdb
-D:\C#Console\prefixPostfix\prefixPostfix\obj\Debug\prefixPostfix.csprojAssemblyReference.cache
-D:\C#Console\prefixPostfix\prefixPostfix\obj\Debug\prefixPostfix.csproj.CoreCompileInputs.cache
-D:\C#Console\prefixPostfix\prefixPostfix\obj\Debug\prefixPostfix.exe
-D:\C#Console\prefixPostfix\prefixPostfix\obj\Debug\prefixPostfix.pdb

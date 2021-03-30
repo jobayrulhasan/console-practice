@@ -1,7 +1,0 @@
-C:\Users\Jobayer\source\repos\inheritance\bin\Debug\inheritance.exe.config
-C:\Users\Jobayer\source\repos\inheritance\bin\Debug\inheritance.exe
-C:\Users\Jobayer\source\repos\inheritance\bin\Debug\inheritance.pdb
-C:\Users\Jobayer\source\repos\inheritance\obj\Debug\inheritance.csprojAssemblyReference.cache
-C:\Users\Jobayer\source\repos\inheritance\obj\Debug\inheritance.csproj.CoreCompileInputs.cache
-C:\Users\Jobayer\source\repos\inheritance\obj\Debug\inheritance.exe
-C:\Users\Jobayer\source\repos\inheritance\obj\Debug\inheritance.pdb

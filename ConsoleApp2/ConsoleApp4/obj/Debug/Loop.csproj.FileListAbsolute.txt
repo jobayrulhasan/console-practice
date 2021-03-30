@@ -1,7 +1,0 @@
-D:\C#Console\ConsoleApp2\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
-D:\C#Console\ConsoleApp2\ConsoleApp4\bin\Debug\ConsoleApp4.exe
-D:\C#Console\ConsoleApp2\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
-D:\C#Console\ConsoleApp2\ConsoleApp4\obj\Debug\Loop.csprojAssemblyReference.cache
-D:\C#Console\ConsoleApp2\ConsoleApp4\obj\Debug\Loop.csproj.CoreCompileInputs.cache
-D:\C#Console\ConsoleApp2\ConsoleApp4\obj\Debug\ConsoleApp4.exe
-D:\C#Console\ConsoleApp2\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
