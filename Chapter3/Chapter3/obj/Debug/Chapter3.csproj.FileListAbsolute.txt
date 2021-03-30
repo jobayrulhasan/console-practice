@@ -1,0 +1,7 @@
+D:\C#Console\Chapter3\Chapter3\bin\Debug\Chapter3.exe.config
+D:\C#Console\Chapter3\Chapter3\bin\Debug\Chapter3.exe
+D:\C#Console\Chapter3\Chapter3\bin\Debug\Chapter3.pdb
+D:\C#Console\Chapter3\Chapter3\obj\Debug\Chapter3.csprojAssemblyReference.cache
+D:\C#Console\Chapter3\Chapter3\obj\Debug\Chapter3.csproj.CoreCompileInputs.cache
+D:\C#Console\Chapter3\Chapter3\obj\Debug\Chapter3.exe
+D:\C#Console\Chapter3\Chapter3\obj\Debug\Chapter3.pdb

@@ -1,0 +1,7 @@
+D:\C#Console\answerB\obj\Debug\answerB.csproj.CoreCompileInputs.cache
+D:\C#Console\answerB\bin\Debug\answerB.exe.config
+D:\C#Console\answerB\bin\Debug\answerB.exe
+D:\C#Console\answerB\bin\Debug\answerB.pdb
+D:\C#Console\answerB\obj\Debug\answerB.exe
+D:\C#Console\answerB\obj\Debug\answerB.pdb
+D:\C#Console\answerB\obj\Debug\answerB.csprojAssemblyReference.cache

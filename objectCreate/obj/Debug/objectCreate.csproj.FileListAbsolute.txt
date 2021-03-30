@@ -1,0 +1,7 @@
+D:\C#Console\objectCreate\bin\Debug\objectCreate.exe.config
+D:\C#Console\objectCreate\bin\Debug\objectCreate.exe
+D:\C#Console\objectCreate\bin\Debug\objectCreate.pdb
+D:\C#Console\objectCreate\obj\Debug\objectCreate.csprojAssemblyReference.cache
+D:\C#Console\objectCreate\obj\Debug\objectCreate.csproj.CoreCompileInputs.cache
+D:\C#Console\objectCreate\obj\Debug\objectCreate.exe
+D:\C#Console\objectCreate\obj\Debug\objectCreate.pdb

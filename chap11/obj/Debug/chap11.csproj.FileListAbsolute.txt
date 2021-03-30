@@ -1,0 +1,7 @@
+C:\Users\Jobayer\source\repos\chap11\bin\Debug\chap11.exe.config
+C:\Users\Jobayer\source\repos\chap11\bin\Debug\chap11.exe
+C:\Users\Jobayer\source\repos\chap11\bin\Debug\chap11.pdb
+C:\Users\Jobayer\source\repos\chap11\obj\Debug\chap11.csprojAssemblyReference.cache
+C:\Users\Jobayer\source\repos\chap11\obj\Debug\chap11.csproj.CoreCompileInputs.cache
+C:\Users\Jobayer\source\repos\chap11\obj\Debug\chap11.exe
+C:\Users\Jobayer\source\repos\chap11\obj\Debug\chap11.pdb

@@ -1,0 +1,7 @@
+D:\C#Console\ConsoleSir\ConsoleSir\bin\Debug\ConsoleSir.exe.config
+D:\C#Console\ConsoleSir\ConsoleSir\bin\Debug\ConsoleSir.exe
+D:\C#Console\ConsoleSir\ConsoleSir\bin\Debug\ConsoleSir.pdb
+D:\C#Console\ConsoleSir\ConsoleSir\obj\Debug\ConsoleSir.csprojAssemblyReference.cache
+D:\C#Console\ConsoleSir\ConsoleSir\obj\Debug\ConsoleSir.csproj.CoreCompileInputs.cache
+D:\C#Console\ConsoleSir\ConsoleSir\obj\Debug\ConsoleSir.exe
+D:\C#Console\ConsoleSir\ConsoleSir\obj\Debug\ConsoleSir.pdb

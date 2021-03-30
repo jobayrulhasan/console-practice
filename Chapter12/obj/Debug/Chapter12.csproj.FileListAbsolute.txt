@@ -1,0 +1,7 @@
+D:\C#Console\Chapter12\obj\Debug\Chapter12.csprojAssemblyReference.cache
+D:\C#Console\Chapter12\obj\Debug\Chapter12.csproj.CoreCompileInputs.cache
+D:\C#Console\Chapter12\bin\Debug\Chapter12.exe.config
+D:\C#Console\Chapter12\bin\Debug\Chapter12.exe
+D:\C#Console\Chapter12\bin\Debug\Chapter12.pdb
+D:\C#Console\Chapter12\obj\Debug\Chapter12.exe
+D:\C#Console\Chapter12\obj\Debug\Chapter12.pdb

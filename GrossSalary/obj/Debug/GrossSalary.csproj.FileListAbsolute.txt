@@ -1,0 +1,7 @@
+D:\C#Console\GrossSalary\bin\Debug\GrossSalary.exe.config
+D:\C#Console\GrossSalary\bin\Debug\GrossSalary.exe
+D:\C#Console\GrossSalary\bin\Debug\GrossSalary.pdb
+D:\C#Console\GrossSalary\obj\Debug\GrossSalary.csprojAssemblyReference.cache
+D:\C#Console\GrossSalary\obj\Debug\GrossSalary.csproj.CoreCompileInputs.cache
+D:\C#Console\GrossSalary\obj\Debug\GrossSalary.exe
+D:\C#Console\GrossSalary\obj\Debug\GrossSalary.pdb

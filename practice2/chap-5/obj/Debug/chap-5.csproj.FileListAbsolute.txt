@@ -1,0 +1,7 @@
+D:\C#Console\practice2\chap-5\bin\Debug\chap-5.exe.config
+D:\C#Console\practice2\chap-5\bin\Debug\chap-5.exe
+D:\C#Console\practice2\chap-5\bin\Debug\chap-5.pdb
+D:\C#Console\practice2\chap-5\obj\Debug\chap-5.csprojAssemblyReference.cache
+D:\C#Console\practice2\chap-5\obj\Debug\chap-5.csproj.CoreCompileInputs.cache
+D:\C#Console\practice2\chap-5\obj\Debug\chap-5.exe
+D:\C#Console\practice2\chap-5\obj\Debug\chap-5.pdb

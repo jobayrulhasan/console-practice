@@ -1,0 +1,7 @@
+D:\C#Console\evidance\bin\Debug\evidance.exe.config
+D:\C#Console\evidance\bin\Debug\evidance.exe
+D:\C#Console\evidance\bin\Debug\evidance.pdb
+D:\C#Console\evidance\obj\Debug\evidance.csprojAssemblyReference.cache
+D:\C#Console\evidance\obj\Debug\evidance.csproj.CoreCompileInputs.cache
+D:\C#Console\evidance\obj\Debug\evidance.exe
+D:\C#Console\evidance\obj\Debug\evidance.pdb
