@@ -1,0 +1,7 @@
+D:\C#Console\chap10Array\bin\Debug\chap10Array.exe.config
+D:\C#Console\chap10Array\bin\Debug\chap10Array.exe
+D:\C#Console\chap10Array\bin\Debug\chap10Array.pdb
+D:\C#Console\chap10Array\obj\Debug\chap10Array.csprojAssemblyReference.cache
+D:\C#Console\chap10Array\obj\Debug\chap10Array.csproj.CoreCompileInputs.cache
+D:\C#Console\chap10Array\obj\Debug\chap10Array.exe
+D:\C#Console\chap10Array\obj\Debug\chap10Array.pdb

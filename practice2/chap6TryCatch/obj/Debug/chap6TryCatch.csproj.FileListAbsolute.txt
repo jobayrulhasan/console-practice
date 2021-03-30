@@ -1,0 +1,7 @@
+D:\C#Console\practice2\chap6TryCatch\bin\Debug\chap6TryCatch.exe.config
+D:\C#Console\practice2\chap6TryCatch\bin\Debug\chap6TryCatch.exe
+D:\C#Console\practice2\chap6TryCatch\bin\Debug\chap6TryCatch.pdb
+D:\C#Console\practice2\chap6TryCatch\obj\Debug\chap6TryCatch.csprojAssemblyReference.cache
+D:\C#Console\practice2\chap6TryCatch\obj\Debug\chap6TryCatch.csproj.CoreCompileInputs.cache
+D:\C#Console\practice2\chap6TryCatch\obj\Debug\chap6TryCatch.exe
+D:\C#Console\practice2\chap6TryCatch\obj\Debug\chap6TryCatch.pdb

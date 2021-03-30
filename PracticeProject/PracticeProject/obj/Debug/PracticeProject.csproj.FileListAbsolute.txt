@@ -1,0 +1,7 @@
+D:\C#Console\PracticeProject\PracticeProject\bin\Debug\PracticeProject.exe.config
+D:\C#Console\PracticeProject\PracticeProject\bin\Debug\PracticeProject.exe
+D:\C#Console\PracticeProject\PracticeProject\bin\Debug\PracticeProject.pdb
+D:\C#Console\PracticeProject\PracticeProject\obj\Debug\PracticeProject.csprojAssemblyReference.cache
+D:\C#Console\PracticeProject\PracticeProject\obj\Debug\PracticeProject.csproj.CoreCompileInputs.cache
+D:\C#Console\PracticeProject\PracticeProject\obj\Debug\PracticeProject.exe
+D:\C#Console\PracticeProject\PracticeProject\obj\Debug\PracticeProject.pdb

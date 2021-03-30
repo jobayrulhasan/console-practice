@@ -1,0 +1,7 @@
+D:\C#Console\inheritanceShef\bin\Debug\inheritanceShef.exe.config
+D:\C#Console\inheritanceShef\bin\Debug\inheritanceShef.exe
+D:\C#Console\inheritanceShef\bin\Debug\inheritanceShef.pdb
+D:\C#Console\inheritanceShef\obj\Debug\inheritanceShef.csprojAssemblyReference.cache
+D:\C#Console\inheritanceShef\obj\Debug\inheritanceShef.csproj.CoreCompileInputs.cache
+D:\C#Console\inheritanceShef\obj\Debug\inheritanceShef.exe
+D:\C#Console\inheritanceShef\obj\Debug\inheritanceShef.pdb

@@ -1,0 +1,7 @@
+E:\C#\All Evidence\2nd Evidence\SecondEvidence\SecondEvidence\bin\Debug\SecondEvidence.exe.config
+E:\C#\All Evidence\2nd Evidence\SecondEvidence\SecondEvidence\bin\Debug\SecondEvidence.exe
+E:\C#\All Evidence\2nd Evidence\SecondEvidence\SecondEvidence\bin\Debug\SecondEvidence.pdb
+E:\C#\All Evidence\2nd Evidence\SecondEvidence\SecondEvidence\obj\Debug\SecondEvidence.csprojAssemblyReference.cache
+E:\C#\All Evidence\2nd Evidence\SecondEvidence\SecondEvidence\obj\Debug\SecondEvidence.csproj.CoreCompileInputs.cache
+E:\C#\All Evidence\2nd Evidence\SecondEvidence\SecondEvidence\obj\Debug\SecondEvidence.exe
+E:\C#\All Evidence\2nd Evidence\SecondEvidence\SecondEvidence\obj\Debug\SecondEvidence.pdb

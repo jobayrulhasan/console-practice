@@ -1,0 +1,7 @@
+D:\C#Console\chap7Ref\bin\Debug\chap7Ref.exe.config
+D:\C#Console\chap7Ref\bin\Debug\chap7Ref.exe
+D:\C#Console\chap7Ref\bin\Debug\chap7Ref.pdb
+D:\C#Console\chap7Ref\obj\Debug\chap7Ref.csprojAssemblyReference.cache
+D:\C#Console\chap7Ref\obj\Debug\chap7Ref.csproj.CoreCompileInputs.cache
+D:\C#Console\chap7Ref\obj\Debug\chap7Ref.exe
+D:\C#Console\chap7Ref\obj\Debug\chap7Ref.pdb

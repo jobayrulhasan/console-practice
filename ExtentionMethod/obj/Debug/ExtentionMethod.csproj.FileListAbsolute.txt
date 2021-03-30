@@ -1,0 +1,7 @@
+D:\C#Console\ExtentionMethod\bin\Debug\ExtentionMethod.exe.config
+D:\C#Console\ExtentionMethod\bin\Debug\ExtentionMethod.exe
+D:\C#Console\ExtentionMethod\bin\Debug\ExtentionMethod.pdb
+D:\C#Console\ExtentionMethod\obj\Debug\ExtentionMethod.csprojAssemblyReference.cache
+D:\C#Console\ExtentionMethod\obj\Debug\ExtentionMethod.csproj.CoreCompileInputs.cache
+D:\C#Console\ExtentionMethod\obj\Debug\ExtentionMethod.exe
+D:\C#Console\ExtentionMethod\obj\Debug\ExtentionMethod.pdb

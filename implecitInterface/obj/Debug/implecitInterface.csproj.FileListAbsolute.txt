@@ -1,0 +1,6 @@
+D:\C#Console\implecitInterface\bin\Debug\implecitInterface.exe.config
+D:\C#Console\implecitInterface\bin\Debug\implecitInterface.exe
+D:\C#Console\implecitInterface\bin\Debug\implecitInterface.pdb
+D:\C#Console\implecitInterface\obj\Debug\implecitInterface.csproj.CoreCompileInputs.cache
+D:\C#Console\implecitInterface\obj\Debug\implecitInterface.exe
+D:\C#Console\implecitInterface\obj\Debug\implecitInterface.pdb

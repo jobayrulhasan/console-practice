@@ -1,0 +1,7 @@
+D:\C#Console\UserCalculator\UserCalculator\bin\Debug\UserCalculator.exe.config
+D:\C#Console\UserCalculator\UserCalculator\bin\Debug\UserCalculator.exe
+D:\C#Console\UserCalculator\UserCalculator\bin\Debug\UserCalculator.pdb
+D:\C#Console\UserCalculator\UserCalculator\obj\Debug\UserCalculator.csprojAssemblyReference.cache
+D:\C#Console\UserCalculator\UserCalculator\obj\Debug\UserCalculator.csproj.CoreCompileInputs.cache
+D:\C#Console\UserCalculator\UserCalculator\obj\Debug\UserCalculator.exe
+D:\C#Console\UserCalculator\UserCalculator\obj\Debug\UserCalculator.pdb

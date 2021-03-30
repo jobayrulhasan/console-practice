@@ -1,0 +1,7 @@
+D:\C#Console\paramsArray\bin\Debug\paramsArray.exe.config
+D:\C#Console\paramsArray\bin\Debug\paramsArray.exe
+D:\C#Console\paramsArray\bin\Debug\paramsArray.pdb
+D:\C#Console\paramsArray\obj\Debug\paramsArray.csprojAssemblyReference.cache
+D:\C#Console\paramsArray\obj\Debug\paramsArray.csproj.CoreCompileInputs.cache
+D:\C#Console\paramsArray\obj\Debug\paramsArray.exe
+D:\C#Console\paramsArray\obj\Debug\paramsArray.pdb

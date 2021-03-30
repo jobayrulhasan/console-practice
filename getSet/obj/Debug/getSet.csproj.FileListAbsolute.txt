@@ -1,0 +1,7 @@
+D:\C#Console\getSet\bin\Debug\getSet.exe.config
+D:\C#Console\getSet\bin\Debug\getSet.exe
+D:\C#Console\getSet\bin\Debug\getSet.pdb
+D:\C#Console\getSet\obj\Debug\getSet.csprojAssemblyReference.cache
+D:\C#Console\getSet\obj\Debug\getSet.csproj.CoreCompileInputs.cache
+D:\C#Console\getSet\obj\Debug\getSet.exe
+D:\C#Console\getSet\obj\Debug\getSet.pdb

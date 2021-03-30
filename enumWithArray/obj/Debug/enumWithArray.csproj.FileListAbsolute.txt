@@ -1,0 +1,7 @@
+D:\C#Console\enumWithArray\bin\Debug\enumWithArray.exe.config
+D:\C#Console\enumWithArray\bin\Debug\enumWithArray.exe
+D:\C#Console\enumWithArray\bin\Debug\enumWithArray.pdb
+D:\C#Console\enumWithArray\obj\Debug\enumWithArray.csprojAssemblyReference.cache
+D:\C#Console\enumWithArray\obj\Debug\enumWithArray.csproj.CoreCompileInputs.cache
+D:\C#Console\enumWithArray\obj\Debug\enumWithArray.exe
+D:\C#Console\enumWithArray\obj\Debug\enumWithArray.pdb

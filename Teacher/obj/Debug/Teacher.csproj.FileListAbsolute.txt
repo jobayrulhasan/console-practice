@@ -1,0 +1,7 @@
+D:\C#Console\Teacher\bin\Debug\Teacher.exe.config
+D:\C#Console\Teacher\bin\Debug\Teacher.exe
+D:\C#Console\Teacher\bin\Debug\Teacher.pdb
+D:\C#Console\Teacher\obj\Debug\Teacher.csprojAssemblyReference.cache
+D:\C#Console\Teacher\obj\Debug\Teacher.csproj.CoreCompileInputs.cache
+D:\C#Console\Teacher\obj\Debug\Teacher.exe
+D:\C#Console\Teacher\obj\Debug\Teacher.pdb

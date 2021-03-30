@@ -1,0 +1,13 @@
+C:\Users\Jobayer\source\repos\FirstProject2\FirstProject2\bin\Debug\netcoreapp3.1\FirstProject2.exe
+C:\Users\Jobayer\source\repos\FirstProject2\FirstProject2\bin\Debug\netcoreapp3.1\FirstProject2.deps.json
+C:\Users\Jobayer\source\repos\FirstProject2\FirstProject2\bin\Debug\netcoreapp3.1\FirstProject2.runtimeconfig.json
+C:\Users\Jobayer\source\repos\FirstProject2\FirstProject2\bin\Debug\netcoreapp3.1\FirstProject2.runtimeconfig.dev.json
+C:\Users\Jobayer\source\repos\FirstProject2\FirstProject2\bin\Debug\netcoreapp3.1\FirstProject2.dll
+C:\Users\Jobayer\source\repos\FirstProject2\FirstProject2\bin\Debug\netcoreapp3.1\FirstProject2.pdb
+C:\Users\Jobayer\source\repos\FirstProject2\FirstProject2\obj\Debug\netcoreapp3.1\FirstProject2.csprojAssemblyReference.cache
+C:\Users\Jobayer\source\repos\FirstProject2\FirstProject2\obj\Debug\netcoreapp3.1\FirstProject2.AssemblyInfoInputs.cache
+C:\Users\Jobayer\source\repos\FirstProject2\FirstProject2\obj\Debug\netcoreapp3.1\FirstProject2.AssemblyInfo.cs
+C:\Users\Jobayer\source\repos\FirstProject2\FirstProject2\obj\Debug\netcoreapp3.1\FirstProject2.csproj.CoreCompileInputs.cache
+C:\Users\Jobayer\source\repos\FirstProject2\FirstProject2\obj\Debug\netcoreapp3.1\FirstProject2.dll
+C:\Users\Jobayer\source\repos\FirstProject2\FirstProject2\obj\Debug\netcoreapp3.1\FirstProject2.pdb
+C:\Users\Jobayer\source\repos\FirstProject2\FirstProject2\obj\Debug\netcoreapp3.1\FirstProject2.genruntimeconfig.cache
